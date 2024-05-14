@@ -40,4 +40,14 @@ If you are just starting out and need help or encounter any errors, you can ask.
 - GraphQL
 - Tailwindcss
 
+## <a name="features">🔋 Features</a>
+
+👉 **Home Page**: Dynamic home page featured and recent posts, with categories. With full markup articles, author information, comments and much more.
+
+👉 **HygraphCMS**: HygraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
+
+👉 **Responsive**: Full responsiveness across devices for consistent user experience; fluid design adapts seamlessly to various screen sizes, ensuring accessibility.
+
+and many more, including code architecture and reusability
+
 
