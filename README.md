@@ -33,4 +33,11 @@ Featured and recent posts, with categories. With full markup articles, author in
 
 If you are just starting out and need help or encounter any errors, you can ask. This is a place where people help each other.
 
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- React.js
+- TypeScript
+- GraphQL
+- Tailwindcss
+
 
