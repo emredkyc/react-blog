@@ -27,3 +27,10 @@
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 
+## <a name="introduction">🤖 Introduction</a>
+
+Featured and recent posts, with categories. With full markup articles, author information, comments and much more, this fully responsive HeadlessCMS Blog App is the best GraphQL Blog App you can find on GitHub right now. And best of all, you can manage the blog from a dedicated Content Management System.
+
+If you are just starting out and need help or encounter any errors, you can ask. This is a place where people help each other.
+
+
