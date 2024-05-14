@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://react-blog-dev.vercel.app" target="_blank">
+    <a href="https://cms-bloggen.vercel.app" target="_blank">
       <img src="https://i.ibb.co/SwhRrtj/react-blog.png" alt="Project Banner" border="0">
     </a>
   <br />
